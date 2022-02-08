@@ -10,4 +10,4 @@
   * Each spot was covered with 1μL of HCCA matrix (Bruker Daltonics, Bremen, Germany).
   * The machine was run in diagnostic (IVD) mode, and the range of spectra was between 2000-20000 m/z.
 ## Usage
-After setting up the dataset path, run the py scritpts or run the code line by line in this repository, in python 3.8.
+After setting up the dataset path, run the .py scritpts or run the code line by line in this repository, in python 3.8.
