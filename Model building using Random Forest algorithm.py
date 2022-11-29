@@ -1,5 +1,4 @@
 #The model for idendnetifing serotype 1 and 2 among Riemerella anatipestifer using Random Forest algorithm
-#Data import
 import numpy as np
 import pandas as pd
 import os
@@ -15,7 +14,7 @@ for file in files:
   data.columns=data.loc[0,:]
   data=data.drop([0])
   data['strain']=file[1:-4]
-  if file[1:3]=='1-': #Make changes according to the label
+  if file[1:3]=='1-': 
     data['label']='1'
   else:
     data['label']='0'
