@@ -1,5 +1,5 @@
 # Models-for-identifying-serotypes-1-and-2-of-Riemerella-anatipestifer
-## Background
+## Description
 - Models developed for rapid serotyping among RA.
 - Two machine learning algorithms (Random Forest and Support Vector Machine) were used for models building.
 - The datasets used for model building is composed of mass spectrometry data, containing the intensity and M/Z loci.
