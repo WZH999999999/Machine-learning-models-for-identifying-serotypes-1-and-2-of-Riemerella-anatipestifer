@@ -9,5 +9,9 @@
   * 1μL 70% formic acid (Bruker Daltonics, Bremen, Germany) were added to each spot to extract the bacteria protein.
   * Each spot was covered with 1μL of HCCA matrix (Bruker Daltonics, Bremen, Germany).
   * The machine was run in diagnostic (IVD) mode, and the range of spectra was between 2000-20000 m/z.
+- Additional file 1
+  * Mass spectrometry dataset of Riemerella anatipestifer strains of serotype 1 and other serotypes, this dataset was used to train the classifiers that differentiates serotype 1 from other serotypes among R. anatipestifer.
+- Additional file 2
+  * Mass spectrometry dataset of Riemerella anatipestifer strains of serotype 2 and the others, this dataset was used to train the classifiers that differentiates serotype 2 from other serotypes among R. anatipestifer.
 ## Usage
 After setting up the dataset path, run the .py scritpts or run the code line by line in this repository, in python 3.8.
